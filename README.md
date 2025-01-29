@@ -5,7 +5,7 @@ This project explores and analyzes the **Bike Store Sample Database**, a relatio
 
 The goal of this project is to practice SQL querying, while showcasing database management skills.
 
-When going through my queries you will see that it will start with simple SELECT queries to advanced queries by using Common Table Expressions (CTEs) and Window functions. 
+When going through my BikeZ.sql file you will see that it will start with simple SELECT queries to advanced queries by using Common Table Expressions (CTEs) and Window functions. 
 
 ## Dataset
 - **Source**: [Kaggle - Bike Store Sample Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
